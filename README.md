@@ -14,6 +14,11 @@ there is no easy way to do it currently, I know it's
 
 a hassle, but it's so this repo does not get DMCA'd.
 
+# How To install
+Follow this guide I made.
+
+https://github.com/martenmario64/Pizza-Tower-Eggplant-Web-Port/wiki/How-To-install-for-different-operating-systems
+
 # Credits
 MartenMario64 - creator of the web port
 
