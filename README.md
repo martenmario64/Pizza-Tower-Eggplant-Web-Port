@@ -14,7 +14,7 @@ there is no easy way to do it currently, I know it's
 
 a hassle, but it's so this repo does not get DMCA'd.
 
-#Credits
+# Credits
 MartenMario64 - creator of the web port
 
 Tour De Pizza - Creators of Pizza Tower
