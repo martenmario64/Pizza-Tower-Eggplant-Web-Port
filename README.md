@@ -10,7 +10,9 @@ as You will require your own copy of Pizza Tower's
 
 Eggplant Build, the main reason why I cannot host it is
 
-there is no easy way to do it currently.
+there is no easy way to do it currently, I know it's
+
+a hassle, but it's so this repo does not get DMCA'd.
 
 #Credits
 MartenMario64 - creator of the web port
