@@ -27,7 +27,3 @@ https://github.com/martenmario64/Pizza-Tower-Eggplant-Web-Port/wiki/How-To-insta
 MartenMario64 - creator of the web port
 
 Tour De Pizza - Creators of Pizza Tower
-
-thanks to Ghost3833681 for providing a link
-to a decomp, I won't give You the link, as
-it has the source code.
