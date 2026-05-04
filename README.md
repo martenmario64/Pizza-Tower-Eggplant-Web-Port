@@ -12,7 +12,11 @@ Eggplant Build, the main reason why I cannot host it is
 
 there is no easy way to do it currently, I know it's
 
-a hassle, but it's so this repo does not get DMCA'd.
+a hassle, but it's so this repo does not get DMCA'd,
+
+no I will not tell You where to get a copy of this Beta
+
+Build of Pizza Tower.
 
 # How To install
 Follow this guide I made.
