@@ -1,4 +1,4 @@
-# Pizza-Tower-Eggplant-Web-Port
+# Pizza Tower Eggplant Build - Web Port
 
 A custom version of Pizza Tower's Eggplant Build meant
 
@@ -28,11 +28,6 @@ MartenMario64 - creator of the web port
 
 Tour De Pizza - Creators of Pizza Tower
 
-thanks to Ghost3833681 on Gamebanana
-for providing a link to a eggplant decomp.
-
-"https://gamebanana.com/questions/81409"
-
-(Note: If You wanna try to edit that place where I originally got
-
-the Decomp, use GameMaker 2022.3)
+thanks to Ghost3833681 for providing a link
+to a decomp, I won't give You the link, as
+it has the source code.
