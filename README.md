@@ -21,6 +21,8 @@ Build of Pizza Tower.
 # How To install
 Follow this guide I made.
 
+(Note: On Raspberry Pi 5 Hardware, It is best to set the resolution to 720p for screen resolution.)
+
 https://github.com/martenmario64/Pizza-Tower-Eggplant-Web-Port/wiki/How-To-install-for-different-operating-systems
 
 # Credits
